@@ -1,5 +1,5 @@
 # mercurial-jira-issue-commit-extension
-Automatically adds the Jira issue key on a hg commit if not present already.
+Automatically adds the Jira issue key on a hg commit (if not present already) based on the active branch name.
 
 Installation
 ------------
