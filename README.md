@@ -4,7 +4,7 @@ Automatically adds the Jira issue key on a hg commit if not present already.
 Installation
 ------------
 
-* Place this file into your ./hg/ directory
+* Place `jira_issue_hook.py` into your ./hg/ directory
 * Maybe edit the `JIRA_PROJECTS` tuple and add your Jira project key
 * Update your .hg/hgrc and add these lines :
 
